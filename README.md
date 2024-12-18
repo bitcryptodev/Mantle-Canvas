@@ -4,7 +4,7 @@
 
 You can access the Dapp right now at [https://mantle-canvas.vercel.app/](https://mantle-canvas.vercel.app/)
 
-
+![Violet and green simple art school logo (1)](https://github.com/user-attachments/assets/50466696-072c-4270-bde4-f922ba66bb78)
 
 ## **Key Features**
 
